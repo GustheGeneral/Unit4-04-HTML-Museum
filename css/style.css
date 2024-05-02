@@ -1,4 +1,25 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Gustav I
+* Created on: May 1st
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  text-align : center;
+  background-color: lightsteelblue;
+  padding : 20px;
+  color : #ffff;
+}
+
+h4 {
+  text-align : center;
+}
+
+button {
+  background-color: lightyellow;
+  color : darkgreen;
+  padding : 10px;
+}
